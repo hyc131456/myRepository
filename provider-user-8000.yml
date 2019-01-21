@@ -13,8 +13,7 @@ spring:
     username: root
     password: 131456
     
-  application:  #定义服务名称  必须定义
-    name: provider-user
+  application:  #定义服务名称  必须定义 name: 	provider-user 
 
 # mybatis-plush配置
 mybatis-plus:
